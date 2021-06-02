@@ -1,0 +1,10 @@
+header{background-color: #46fc22;
+color: #000;
+ }
+ header h1 {float:right;margin-right: 40%;
+}
+header  nav li { display: inline-block;}
+header nav li {padding:1% 
+}main h1 {color: #5c4f15ab;}
+main {background-color: #3cbdbdab; }
+footer {background:#b42862c4; }
